@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Local Data
+cache/
+query_cache_data.json
+
+# Environment variables
+.env/
+.env

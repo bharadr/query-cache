@@ -1,6 +1,6 @@
-# Prompt Sensitivity Checker 🧪
+# LLM Query Cache 🧪
 
-This tool tests how sensitive large language models (LLMs) like GPT-3.5 are to small changes in prompt wording.
+This is a prototype of a cache that uses an LLM to check for questions that are semantically equivalent.
 
 ## 🔍 What It Does
 - Generates 5 slight variations of a base prompt

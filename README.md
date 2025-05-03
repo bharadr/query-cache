@@ -1,5 +1,3 @@
-Looking at this code, I'll create a comprehensive README that explains what this semantic caching system does and how to use it.
-
 # Semantic Prompt Caching for OpenAI API
 
 A sophisticated caching system that reduces API costs by intelligently detecting and caching semantically equivalent prompts. This tool uses GPT-3.5 to determine if prompts are functionally equivalent, even when worded differently, saving significant costs on repeated API calls.
